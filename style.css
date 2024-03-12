@@ -13,7 +13,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #fff;
+  background: #f89797;
 }
 header {
   position: absolute;
@@ -38,7 +38,7 @@ header ul li {
 }
 header ul li a {
   display: inline-block;
-  color: #333;
+  color: #ffffff;
   font-weight: 800;
   margin-left: 40px;
   text-decoration: none;
@@ -55,7 +55,7 @@ header ul li a {
   max-width: 600px;
 }
 .container .text-box h2 {
-  color: #333;
+  color: #ffffff;
   font-size: 4em;
   font-weight: 500px;
 }
